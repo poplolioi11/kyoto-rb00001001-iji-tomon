@@ -1,0 +1,325 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 9,
+  "changes": [
+    {
+      "image": 4,
+      "side": "left",
+      "column": 2,
+      "kind": "main",
+      "op": "replace",
+      "before": "奧州桃井",
+      "after": "奧州　桃井",
+      "reason": "保留版面所見行內空白。",
+      "source_bbox": [
+        770,
+        786,
+        832,
+        1136
+      ],
+      "offset": [
+        0,
+        4
+      ],
+      "source_image_sha256": "483dbe4cfa436aee75df70b40f70d300f1ff41ee04e8d57643bb26e2de4e164d",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p4"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 4,
+      "kind": "main",
+      "op": "replace",
+      "before": "餘歲",
+      "after": "餘歳",
+      "reason": "末字原筆寫歳。",
+      "source_bbox": [
+        646,
+        1016,
+        714,
+        1135
+      ],
+      "offset": [
+        14,
+        16
+      ],
+      "source_image_sha256": "483dbe4cfa436aee75df70b40f70d300f1ff41ee04e8d57643bb26e2de4e164d",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p4"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 9,
+      "kind": "paratext",
+      "op": "split-note",
+      "before": "建殊錄證治也",
+      "after": "建殊錄／證治也",
+      "reason": "原紙雙行小字分右左兩列；其回正文。",
+      "source_bbox": [
+        340,
+        436,
+        418,
+        695
+      ],
+      "source_image_sha256": "483dbe4cfa436aee75df70b40f70d300f1ff41ee04e8d57643bb26e2de4e164d",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p4"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "mark-uncertainty",
+      "before": "富士文庫",
+      "after": "□□文庫",
+      "reason": "兩個上字刻痕重疊，僅末兩字可定。",
+      "source_bbox": [
+        901,
+        676,
+        986,
+        1125
+      ],
+      "source_image_sha256": "483dbe4cfa436aee75df70b40f70d300f1ff41ee04e8d57643bb26e2de4e164d",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p4"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 8,
+      "kind": "main",
+      "op": "replace",
+      "before": "雖錄方極",
+      "after": "雖録方極",
+      "reason": "右部為录形，與旁字分明。",
+      "source_bbox": [
+        1166,
+        718,
+        1232,
+        972
+      ],
+      "offset": [
+        7,
+        11
+      ],
+      "source_image_sha256": "8ca760147878d51f3ac048972e4bb0fed9aa583a37676917dd78d6171eab81a1",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p6"
+    },
+    {
+      "image": 11,
+      "side": "right",
+      "column": 6,
+      "kind": "main",
+      "op": "replace",
+      "before": "絕於",
+      "after": "絶於",
+      "reason": "原字右部近色。",
+      "source_bbox": [
+        1289,
+        595,
+        1342,
+        738
+      ],
+      "offset": [
+        5,
+        7
+      ],
+      "source_image_sha256": "ed613a0125bcd97089ab9efdec3039059bc40d46fc85a056ca2fa4097fd1e910",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p11"
+    },
+    {
+      "image": 11,
+      "side": "right",
+      "column": 7,
+      "kind": "main",
+      "op": "replace",
+      "before": "二千歲",
+      "after": "二千歳",
+      "reason": "原形與首幅歳同。",
+      "source_bbox": [
+        1219,
+        998,
+        1281,
+        1139
+      ],
+      "offset": [
+        13,
+        16
+      ],
+      "source_image_sha256": "ed613a0125bcd97089ab9efdec3039059bc40d46fc85a056ca2fa4097fd1e910",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p11"
+    },
+    {
+      "image": 11,
+      "side": "right",
+      "column": 4,
+      "kind": "paratext",
+      "op": "locate-reading-marks",
+      "before": "未獨立定位",
+      "after": "朱頓點",
+      "reason": "短朱筆在字形外側。",
+      "source_bbox": [
+        1408,
+        505,
+        1462,
+        819
+      ],
+      "source_image_sha256": "ed613a0125bcd97089ab9efdec3039059bc40d46fc85a056ca2fa4097fd1e910",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p11"
+    },
+    {
+      "image": 11,
+      "side": "left",
+      "column": 3,
+      "kind": "paratext",
+      "op": "locate-reading-marks",
+      "before": "未獨立定位",
+      "after": "朱頓點",
+      "reason": "短朱筆在字形外側。",
+      "source_bbox": [
+        724,
+        817,
+        785,
+        1004
+      ],
+      "source_image_sha256": "ed613a0125bcd97089ab9efdec3039059bc40d46fc85a056ca2fa4097fd1e910",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p11"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 4,
+      "side": "left",
+      "column": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p4",
+      "status": "字形待核"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p4",
+      "status": "字形待核"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p4",
+      "status": "字形待核"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p6",
+      "status": "字形待核"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p6",
+      "status": "字形待核"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p6",
+      "status": "字形待核"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p6",
+      "status": "字形待核"
+    },
+    {
+      "image": 13,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p13",
+      "status": "字形待核"
+    },
+    {
+      "image": 13,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p13",
+      "status": "字形待核"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 4,
+      "side": "left",
+      "column": 3,
+      "source_image_sha256": "483dbe4cfa436aee75df70b40f70d300f1ff41ee04e8d57643bb26e2de4e164d",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p4",
+      "reading": "安貞問",
+      "reason": "接在兩欄題署後的主文。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 4,
+      "source_image_sha256": "8ca760147878d51f3ac048972e4bb0fed9aa583a37676917dd78d6171eab81a1",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p6",
+      "reading": "多讀闕疑",
+      "reason": "闕字的黑字和小訓分層。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 11,
+      "side": "right",
+      "column": 4,
+      "source_image_sha256": "ed613a0125bcd97089ab9efdec3039059bc40d46fc85a056ca2fa4097fd1e910",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p11",
+      "reading": "七十有二",
+      "reason": "末字旁的朱頓點是讀點。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 11,
+      "side": "left",
+      "column": 3,
+      "source_image_sha256": "ed613a0125bcd97089ab9efdec3039059bc40d46fc85a056ca2fa4097fd1e910",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p11",
+      "reading": "則亡未聞",
+      "reason": "原圖作亡。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 17,
+      "side": "left",
+      "column": 1,
+      "source_image_sha256": "d20661383658d2ce2041a88dc9420e38453b1d992b918b65c4391115d89042f6",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p17",
+      "reading": "右二十有五章東洞吉益先生之言而",
+      "reason": "卷末原字、章數與錄述身分相符。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 17,
+      "side": "left",
+      "column": 3,
+      "source_image_sha256": "d20661383658d2ce2041a88dc9420e38453b1d992b918b65c4391115d89042f6",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p17",
+      "reading": "醫事答問終",
+      "reason": "原圖左面最外實寫欄。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 18,
+      "side": "right",
+      "column": 1,
+      "source_image_sha256": "c73b64f9d25eb30a20aa8c622a4cbdf29aba2e205077de60272c363141fd00f8",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p18",
+      "reading": "弘化三丙午應鐘中澣謄寫焉",
+      "reason": "原款無年字，末字與前幅焉同筆。",
+      "status": "依原圖留讀"
+    }
+  ]
+}

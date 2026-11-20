@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -172,13 +172,13 @@
               <seg type="diplomatic-text">醫事答問</seg>
             </ab>
             <ab type="column" n="2" xml:id="f04-l-c02">
-              <seg type="diplomatic-text">奧州桃井安貞著述</seg>
+              <seg type="diplomatic-text">奧州　桃井安貞著述</seg>
             </ab>
             <ab type="column" n="3" xml:id="f04-l-c03">
               <seg type="diplomatic-text">安貞問古醫事於東洞先生蓋扁鵲仲</seg>
             </ab>
             <ab type="column" n="4" xml:id="f04-l-c04">
-              <seg type="diplomatic-text">景之醫事周漢以降唐宋元明二千餘歲</seg>
+              <seg type="diplomatic-text">景之醫事周漢以降唐宋元明二千餘歳</seg>
             </ab>
             <ab type="column" n="5" xml:id="f04-l-c05">
               <seg type="diplomatic-text">雖英雄豪傑滿於天下未聞為秦張之醫</seg>
@@ -195,7 +195,7 @@
             <ab type="column" n="9" xml:id="f04-l-c09">
               <seg type="diplomatic-text">不愈其先生何以知此法乎先生</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c09">
+            <ab type="page-feature" subtype="manuscript-annotation" corresp="#f04-l-c09">
               <label>左九不愈後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">建殊錄證治也</seg>
             </ab>
@@ -213,7 +213,7 @@
             </ab>
             <ab type="page-feature" subtype="seal" corresp="#f04-l-c09">
               <label>左欄外朱印（下）</label>
-              <seg type="diplomatic-text" rend="red">富士文庫</seg>
+              <seg type="diplomatic-text" rend="red">□□文庫</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -225,6 +225,11 @@
             <ab type="transcription-issue" n="left:5">
               <quote>為</quote>
               <note type="editorial">藏書印筆畫仍待核。問後可見黑墨訓點與朱句點，未逐一編碼。查重時見過不同刊本的搜尋索引片段，本幅以京都抄本影像辨讀；其中「為」等形、旁註與列序以本圖為準。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote>下方朱印□□文庫</quote>
+              <seg type="candidate">富士文庫</seg>
+              <note type="editorial">印面首兩字待辨。</note>
             </ab>
           </div>
         </div>
@@ -317,7 +322,7 @@
               <seg type="diplomatic-text">安貞問主治先生曰主治醫家之大要學</seg>
             </ab>
             <ab type="column" n="8" xml:id="f06-r-c08">
-              <seg type="diplomatic-text">者不可不審焉吾雖錄方極類聚方醫則</seg>
+              <seg type="diplomatic-text">者不可不審焉吾雖録方極類聚方醫則</seg>
             </ab>
             <ab type="column" n="9" xml:id="f06-r-c09">
               <seg type="diplomatic-text">事也有志于醫者方與證自試可也假令</seg>
@@ -365,6 +370,18 @@
             <ab type="transcription-issue" n="left:5">
               <quote>飮</quote>
               <note type="editorial">朱點與黑墨訓點未逐一編碼。右一首近「蒞」、右八「極」、左四末一字見口、足構件，原字暫作「哫」，文義可作「促」、左五「飮」待核。左頁述古方名與一般辨證，未見制法。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:1">
+              <quote>蒞</quote>
+              <seg type="candidate">蒞</seg>
+              <seg type="candidate">莅</seg>
+              <note type="editorial">草頭下兩側可辨，尚不能定左側細部。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>哫</quote>
+              <seg type="candidate">哫</seg>
+              <seg type="candidate">促</seg>
+              <note type="editorial">右旁似足，左側筆形不足以定字。</note>
             </ab>
           </div>
         </div>
@@ -670,15 +687,16 @@
             </ab>
             <ab type="column" n="4" xml:id="f11-r-c04">
               <seg type="diplomatic-text">先生曰吾年七十有二門徒已滿於天下</seg>
+              <note type="original-mark" n="9" rend="red">、</note>
             </ab>
             <ab type="column" n="5" xml:id="f11-r-c05">
               <seg type="diplomatic-text">而無得吾道者日以患焉安貞答曰扁鵲</seg>
             </ab>
             <ab type="column" n="6" xml:id="f11-r-c06">
-              <seg type="diplomatic-text">仲景之醫事絕於天下既久矣千金外臺</seg>
+              <seg type="diplomatic-text">仲景之醫事絶於天下既久矣千金外臺</seg>
             </ab>
             <ab type="column" n="7" xml:id="f11-r-c07">
-              <seg type="diplomatic-text">以下之方書無通金匱傷寒論者二千歲</seg>
+              <seg type="diplomatic-text">以下之方書無通金匱傷寒論者二千歳</seg>
             </ab>
             <ab type="column" n="8" xml:id="f11-r-c08">
               <seg type="diplomatic-text">以來未嘗聞有誦其書得其用者至于今</seg>
@@ -696,6 +714,7 @@
             </ab>
             <ab type="column" n="3" xml:id="f11-l-c03">
               <seg type="diplomatic-text">學不幸短命死矣今也則亡未聞好學者</seg>
+              <note type="original-mark" n="11" rend="red">、</note>
             </ab>
             <ab type="column" n="4" xml:id="f11-l-c04">
               <seg type="diplomatic-text">也聖門三千如雲或十哲或七十二弟子</seg>
@@ -861,6 +880,12 @@
             <ab type="transcription-issue" n="left:1">
               <quote>□</quote>
               <note type="editorial">部分筆畫不清，原圖字形待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:1">
+              <quote>河豚後一字</quote>
+              <seg type="candidate">羹</seg>
+              <seg type="candidate">奚</seg>
+              <note type="editorial">同欄底字墨筆重疊，維持方框。</note>
             </ab>
           </div>
         </div>

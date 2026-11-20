@@ -4,11 +4,11 @@
 
 Iji tōmon records questions and answers attributed to the Japanese physician Yoshimasu Tōdō and compiled by 桃井安貞. The closing note describes twenty-five sections of instruction and discussion. This Literary Chinese dataset follows Kyoto University manuscript イ/389, whose copying note is dated 1846.
 
-## V0.1.0
+## V0.2.0
 
-全冊 19 幅均有索引，含內題、問答、卷末及謄寫款，六欄有局部省錄。可辨小字、朱筆與館藏記號分層保留。AI 輔助逐欄初錄，附定位的疑字與小字。
+全冊 19 幅均有索引，含內題、問答、卷末及謄寫款，六欄有局部省錄。可辨小字、朱筆與館藏記號分層保留。比對未見初稿的本機 OCR 候選後，回圖裁定採用 9 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-The dataset indexes all 19 scans and includes the internal title, questions and answers, closing text, and copying note. Local omissions are marked in six columns. Identifiable small notes, red marks, and collection features are distinguished. AI-assisted initial transcription with source-locatable notes and unresolved readings.
+The dataset indexes all 19 scans and includes the internal title, questions and answers, closing text, and copying note. Local omissions are marked in six columns. Identifiable small notes, red marks, and collection features are distinguished. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 9 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 

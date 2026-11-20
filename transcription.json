@@ -17,11 +17,11 @@
     "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001001/manifest.json",
     "manifest_sha256": "f9804f340dad56452b93232b6bd6b5bcae14958f6dbd920a18a7df117559dd41",
     "record_id": "RB00001001",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": "A single dated manuscript of 25 questions and answers. All 19 official canvases are retained and source-aligned, including covers and copying colophon.",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "醫事答問（1846 年謄寫題記，京都大學 イ/389） / Iji tōmon [Questions and answers on the practice of medicine]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -194,7 +194,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-dialogue",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -216,13 +216,13 @@
               "text": "醫事答問"
             },
             {
-              "text": "奧州桃井安貞著述"
+              "text": "奧州　桃井安貞著述"
             },
             {
               "text": "安貞問古醫事於東洞先生蓋扁鵲仲"
             },
             {
-              "text": "景之醫事周漢以降唐宋元明二千餘歲"
+              "text": "景之醫事周漢以降唐宋元明二千餘歳"
             },
             {
               "text": "雖英雄豪傑滿於天下未聞為秦張之醫"
@@ -242,11 +242,15 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "manuscript-annotation",
               "location": "左九不愈後雙行小字",
               "text": "建殊錄證治也",
               "column_anchor": 9,
-              "color": "unknown"
+              "color": "unknown",
+              "lines": [
+                "建殊錄",
+                "證治也"
+              ]
             },
             {
               "type": "seal",
@@ -272,7 +276,7 @@
             {
               "type": "seal",
               "location": "左欄外朱印（下）",
-              "text": "富士文庫",
+              "text": "□□文庫",
               "column_anchor": 9,
               "color": "red"
             }
@@ -293,6 +297,15 @@
           "context": "為",
           "candidates": [],
           "note": "藏書印筆畫仍待核。問後可見黑墨訓點與朱句點，未逐一編碼。查重時見過不同刊本的搜尋索引片段，本幅以京都抄本影像辨讀；其中「為」等形、旁註與列序以本圖為準。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "下方朱印□□文庫",
+          "candidates": [
+            "富士文庫"
+          ],
+          "note": "印面首兩字待辨。"
         }
       ],
       "observations": "右面：右頁見返無正文。小損在頁邊及空白。 左面：藏書印筆畫仍待核。問後可見黑墨訓點與朱句點，未逐一編碼。查重時見過不同刊本的搜尋索引片段，本幅以京都抄本影像辨讀；其中「為」等形、旁註與列序以本圖為準。"
@@ -314,7 +327,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-dialogue",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -403,7 +416,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-dialogue",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -430,7 +443,7 @@
               "text": "安貞問主治先生曰主治醫家之大要學"
             },
             {
-              "text": "者不可不審焉吾雖錄方極類聚方醫則"
+              "text": "者不可不審焉吾雖録方極類聚方醫則"
             },
             {
               "text": "事也有志于醫者方與證自試可也假令"
@@ -494,6 +507,26 @@
           "context": "飮",
           "candidates": [],
           "note": "朱點與黑墨訓點未逐一編碼。右一首近「蒞」、右八「極」、左四末一字見口、足構件，原字暫作「哫」，文義可作「促」、左五「飮」待核。左頁述古方名與一般辨證，未見制法。"
+        },
+        {
+          "side": "right",
+          "column": 1,
+          "context": "蒞",
+          "candidates": [
+            "蒞",
+            "莅"
+          ],
+          "note": "草頭下兩側可辨，尚不能定左側細部。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "哫",
+          "candidates": [
+            "哫",
+            "促"
+          ],
+          "note": "右旁似足，左側筆形不足以定字。"
         }
       ],
       "observations": "左面：朱點與黑墨訓點未逐一編碼。右一首近「蒞」、右八「極」、左四末一字見口、足構件，原字暫作「哫」，文義可作「促」、左五「飮」待核。左頁述古方名與一般辨證，未見制法。"
@@ -515,7 +548,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-dialogue",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -620,7 +653,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-dialogue",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -732,7 +765,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-dialogue",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -837,7 +870,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-dialogue",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -934,7 +967,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-dialogue",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -949,16 +982,23 @@
               "text": "於二代哉"
             },
             {
-              "text": "先生曰吾年七十有二門徒已滿於天下"
+              "text": "先生曰吾年七十有二門徒已滿於天下",
+              "marks": [
+                {
+                  "after": 9,
+                  "mark": "、",
+                  "color": "red"
+                }
+              ]
             },
             {
               "text": "而無得吾道者日以患焉安貞答曰扁鵲"
             },
             {
-              "text": "仲景之醫事絕於天下既久矣千金外臺"
+              "text": "仲景之醫事絶於天下既久矣千金外臺"
             },
             {
-              "text": "以下之方書無通金匱傷寒論者二千歲"
+              "text": "以下之方書無通金匱傷寒論者二千歳"
             },
             {
               "text": "以來未嘗聞有誦其書得其用者至于今"
@@ -979,7 +1019,14 @@
               "text": "何以謂千古之一人哉子曰有顏囘者好"
             },
             {
-              "text": "學不幸短命死矣今也則亡未聞好學者"
+              "text": "學不幸短命死矣今也則亡未聞好學者",
+              "marks": [
+                {
+                  "after": 11,
+                  "mark": "、",
+                  "color": "red"
+                }
+              ]
             },
             {
               "text": "也聖門三千如雲或十哲或七十二弟子"
@@ -1031,7 +1078,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-dialogue",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1128,7 +1175,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-dialogue",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1212,6 +1259,16 @@
           "context": "□",
           "candidates": [],
           "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "河豚後一字",
+          "candidates": [
+            "羹",
+            "奚"
+          ],
+          "note": "同欄底字墨筆重疊，維持方框。"
         }
       ],
       "observations": "左面：兩面另有朱色短斜句讀與墨筆訓點，未逐記。左頁第1欄「河豚」下一字上有兩斜點、中部近方框、下筆展開，候讀「羹」或「奚」，暫留□。"
@@ -1233,7 +1290,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-dialogue",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1588,7 +1645,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-dialogue",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1667,7 +1724,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "copying-note",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
