@@ -1,0 +1,1719 @@
+{
+  "metadata": {
+    "title": "醫事答問",
+    "catalogue_title": "医事答問",
+    "alternate_title": "Iji tōmon",
+    "roman_title": "Iji tōmon",
+    "author": "桃井安貞",
+    "date": "弘化三年（1846）謄寫題記。",
+    "location": "日本京都（現藏）",
+    "repository": "京都大學附屬圖書館",
+    "repository_en": "Main Library, Kyoto University",
+    "collection": "富士川文庫",
+    "shelfmark": "イ/389",
+    "catalogue": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00001001",
+    "rights": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+    "description": "桃井安貞記吉益東洞醫學問答，卷末明記二十五章。京都富士川文庫1846年抄本。",
+    "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001001/manifest.json",
+    "manifest_sha256": "f9804f340dad56452b93232b6bd6b5bcae14958f6dbd920a18a7df117559dd41",
+    "record_id": "RB00001001",
+    "edition": "0.1.0",
+    "catalogue_main_scope": "A single dated manuscript of 25 questions and answers. All 19 official canvases are retained and source-aligned, including covers and copying colophon.",
+    "version": "0.1.0",
+    "dataset_title": "醫事答問（1846 年謄寫題記，京都大學 イ/389） / Iji tōmon [Questions and answers on the practice of medicine]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p1",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001001%2FRB00001001_00001_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "1"
+        ]
+      },
+      "file": "01.jpg",
+      "sha256": "d7fc2e5224e12686510bec7533a94603122c5dbee45fc782e249adb0953c206c",
+      "bytes": 251828,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "藍色外帙正面題籤",
+              "text": "医事答問／一冊",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "医事答問",
+                "一冊"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：外帙閉合拍攝。外側背有另一題籤，展開圖見第2幅。"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p2",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001001%2FRB00001001_00002_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "2"
+        ]
+      },
+      "file": "02.jpg",
+      "sha256": "d2b542218136aa80d28304d8a7094fb61162df87c23a5ed4f10b4df29d26ab8d",
+      "bytes": 312540,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "藍色外帙正面題籤",
+              "text": "医事答問／一冊",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "医事答問",
+                "一冊"
+              ]
+            },
+            {
+              "type": "copy-annotation",
+              "location": "藍色外帙背題籤",
+              "text": "医事答問／一冊",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "医事答問",
+                "一冊"
+              ]
+            },
+            {
+              "type": "copy-annotation",
+              "location": "外帙背下館籤",
+              "text": "イ／389",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "イ",
+                "389"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：外帙展開一幅。題籤屬保存及館藏附記。"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p3",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001001%2FRB00001001_00003_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "3"
+        ]
+      },
+      "file": "03.jpg",
+      "sha256": "79449e28687a70bdc59c8c0d6c60ce689051a7d865c0c35529aa29da0122b40b",
+      "bytes": 266430,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "原書正封題籤",
+              "text": "醫事答問",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "原書正封右上館籤",
+              "text": "イ／389",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "イ",
+                "389"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：黃褐原書衣及左側直題籤。"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p4",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001001%2FRB00001001_00004_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "4"
+        ]
+      },
+      "file": "04.jpg",
+      "sha256": "483dbe4cfa436aee75df70b40f70d300f1ff41ee04e8d57643bb26e2de4e164d",
+      "bytes": 261797,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-dialogue",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁書籤",
+              "text": "富士川本 イ 389",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "醫事答問"
+            },
+            {
+              "text": "奧州桃井安貞著述"
+            },
+            {
+              "text": "安貞問古醫事於東洞先生蓋扁鵲仲"
+            },
+            {
+              "text": "景之醫事周漢以降唐宋元明二千餘歲"
+            },
+            {
+              "text": "雖英雄豪傑滿於天下未聞為秦張之醫"
+            },
+            {
+              "text": "事者雖千金外臺以下之方書多於後世"
+            },
+            {
+              "text": "無通金匱傷寒論者至于今先生始通其"
+            },
+            {
+              "text": "書以古之方與今之病者屢有驗萬病無"
+            },
+            {
+              "text": "不愈其先生何以知此法乎先生"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左九不愈後雙行小字",
+              "text": "建殊錄證治也",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "seal",
+              "location": "左上黑圓印",
+              "text": "705817　□15.9.5",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "seal",
+              "location": "左上朱方印",
+              "text": "京都帝國大學圖書之印",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "seal",
+              "location": "左欄外朱印（上）",
+              "text": "富士川游寄贈",
+              "column_anchor": 9,
+              "color": "red"
+            },
+            {
+              "type": "seal",
+              "location": "左欄外朱印（下）",
+              "text": "富士文庫",
+              "column_anchor": 9,
+              "color": "red"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 9,
+          "context": "左上黑圓印",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "為",
+          "candidates": [],
+          "note": "藏書印筆畫仍待核。問後可見黑墨訓點與朱句點，未逐一編碼。查重時見過不同刊本的搜尋索引片段，本幅以京都抄本影像辨讀；其中「為」等形、旁註與列序以本圖為準。"
+        }
+      ],
+      "observations": "右面：右頁見返無正文。小損在頁邊及空白。 左面：藏書印筆畫仍待核。問後可見黑墨訓點與朱句點，未逐一編碼。查重時見過不同刊本的搜尋索引片段，本幅以京都抄本影像辨讀；其中「為」等形、旁註與列序以本圖為準。"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p5",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001001%2FRB00001001_00005_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "5"
+        ]
+      },
+      "file": "05.jpg",
+      "sha256": "93f7db520dc395e345bf765f9e414e406b9ea800304bcba9b2d1b9904099ea56",
+      "bytes": 326759,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-dialogue",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "曰吾自幼時讀五經以知聖道唯人事焉"
+            },
+            {
+              "text": "耳矣而后讀素難素難知非聖人之書曰"
+            },
+            {
+              "text": "先生何以知素難非聖人之書乎曰五經"
+            },
+            {
+              "text": "各人事也聖人不能人事者不載之五經"
+            },
+            {
+              "text": "也素難五臟六腑之臆見陰陽五行之空"
+            },
+            {
+              "text": "論皆不能人事者也聖人之書未嘗見如"
+            },
+            {
+              "text": "是之臆見故知素難非聖人之書矣吾亦"
+            },
+            {
+              "text": "舍之抑金匱傷寒論古而真者也是故吾"
+            },
+            {
+              "text": "信而讀焉然有王叔和之攙入學者不可"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "不知焉曰先生何以知其攙入乎曰吾讀"
+            },
+            {
+              "text": "金匱傷寒論以陰陽五行之空論五臟六"
+            },
+            {
+              "text": "腑之臆見或萬病之虛名如是之類不能"
+            },
+            {
+              "text": "人事者也皆舍焉骨節疼痛無汗而喘心"
+            },
+            {
+              "text": "下痞鞕胸脇苦滿上衝拘攣惡寒煩渴大"
+            },
+            {
+              "text": "便不通腹脹滿之類當行人事者也各取"
+            },
+            {
+              "text": "焉取舍乃是也而后方證正明萬病無不"
+            },
+            {
+              "text": "愈故言聖道唯人事焉耳矣曰然則五經"
+            },
+            {
+              "text": "通金匱傷寒論之本與曰五經不學牆面"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "左面：朱點及黑墨返點、送假名未逐一編碼。右二「后」、右四「各」、右九與左一「攙」、左五「鞕」「脇」、左七「后」可回圖覆核。查重時曾見到不同刊本索引含本幅起句，讀字仍據京都抄本。"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p6",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001001%2FRB00001001_00006_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "6"
+        ]
+      },
+      "file": "06.jpg",
+      "sha256": "8ca760147878d51f3ac048972e4bb0fed9aa583a37676917dd78d6171eab81a1",
+      "bytes": 318037,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-dialogue",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "蒞事惟煩小子思諸"
+            },
+            {
+              "text": "安貞按唐宋元明諸名家各讀金匱傷"
+            },
+            {
+              "text": "寒論以無取舍而為醫故萬病不愈矣"
+            },
+            {
+              "text": "先生多讀闕疑取其餘多見闕殆行其"
+            },
+            {
+              "text": "餘醫事之至要得於其中矣聖人不言"
+            },
+            {
+              "text": "之乎多聞擇其善者而從之也"
+            },
+            {
+              "text": "安貞問主治先生曰主治醫家之大要學"
+            },
+            {
+              "text": "者不可不審焉吾雖錄方極類聚方醫則"
+            },
+            {
+              "text": "事也有志于醫者方與證自試可也假令"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "右七上欄",
+              "text": "△",
+              "column_anchor": null,
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "病者心下痞鞕胸脇苦滿與之小柴胡湯"
+            },
+            {
+              "text": "而其證解則苦滿痞鞕之證是也若不解"
+            },
+            {
+              "text": "則當知非苦滿痞鞕之證矣頭痛發熱無"
+            },
+            {
+              "text": "汗而喘身體疼痛者與之麻黃湯而喘哫"
+            },
+            {
+              "text": "止則麻黃湯之證是也渴而欲飮水數升"
+            },
+            {
+              "text": "者與之白虎湯而渴止則白虎湯之證是"
+            },
+            {
+              "text": "也餘方皆如此也知犯何逆隨證治之則"
+            },
+            {
+              "text": "萬病無不愈矣夫吾道萬病唯一毒也曰"
+            },
+            {
+              "text": "何謂乎曰病者自六十餘州來吾一診以"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 4,
+          "context": "哫",
+          "candidates": [],
+          "note": "朱點與黑墨訓點未逐一編碼。右一首近「蒞」、右八「極」、左四末一字見口、足構件，原字暫作「哫」，文義可作「促」、左五「飮」待核。左頁述古方名與一般辨證，未見制法。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "飮",
+          "candidates": [],
+          "note": "朱點與黑墨訓點未逐一編碼。右一首近「蒞」、右八「極」、左四末一字見口、足構件，原字暫作「哫」，文義可作「促」、左五「飮」待核。左頁述古方名與一般辨證，未見制法。"
+        }
+      ],
+      "observations": "左面：朱點與黑墨訓點未逐一編碼。右一首近「蒞」、右八「極」、左四末一字見口、足構件，原字暫作「哫」，文義可作「促」、左五「飮」待核。左頁述古方名與一般辨證，未見制法。"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p7",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001001%2FRB00001001_00007_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "7"
+        ]
+      },
+      "file": "07.jpg",
+      "sha256": "c6a3cb4fbe908aae96b6b0cacf37e4d019606ab06dd68661f359a2aef7602a93",
+      "bytes": 314375,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-dialogue",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "與藥萬病終全愈矣故言醫之學也唯方"
+            },
+            {
+              "text": "焉耳吾非生而知之者好古敏而求之者"
+            },
+            {
+              "text": "也曰聖人不言之哉溫故知新可以為師"
+            },
+            {
+              "text": "矣亦曰博古知今其斯之謂與"
+            },
+            {
+              "text": "安貞問藥品先生曰藥品治病之本學者"
+            },
+            {
+              "text": "不可不擇焉草烏頭勝於唐附子矣竹節"
+            },
+            {
+              "text": "人蔘治心下痞鞕勝於朝鮮人蔘矣和芍"
+            },
+            {
+              "text": "藥勝於唐芍藥矣唐蒼朮勝於唐白朮矣"
+            },
+            {
+              "text": "吾嘗擇古醫藥品其所取値至三四倍而"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "右五上欄",
+              "text": "△",
+              "column_anchor": null,
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "所舍亦値減其半也是以知天下之醫從"
+            },
+            {
+              "text": "吾道矣可謂幸甚"
+            },
+            {
+              "text": "安貞問藥煎法先生曰吾未知焉小柴胡"
+            },
+            {
+              "text": "湯煎法曰以水一斗二升煮取六升去滓"
+            },
+            {
+              "text": "再煎取三升日三服何故然乎一日染工"
+            },
+            {
+              "text": "來請治乃與此方聽其煎法大歎吾問其"
+            },
+            {
+              "text": "故曰染草水煎以取其半去滓再煎而用"
+            },
+            {
+              "text": "之則其色甚好亦不然則其色遂淺知古"
+            },
+            {
+              "text": "人之煎法亦如是安貞意者先生能好問"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "左三上欄",
+              "text": "△",
+              "column_anchor": null,
+              "color": "red"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：朱點、返點與送假名未逐一編碼。右六所舉是藥材名稱與歷史選材偏好，未載製備或配量。左頁以常見湯方和染工所述為例。右七「蔘」、右八「朮」、右九與左一「値」依筆形，左一末「從」、左六「歎」、左七「染草」待覆核。"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p8",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001001%2FRB00001001_00008_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "8"
+        ]
+      },
+      "file": "08.jpg",
+      "sha256": "2ed46d9701225575bd43c167a8f5c4ee7eeb3e529df2adb62a698ce5daa317b9",
+      "bytes": 305521,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-dialogue",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "聖人不言乎舜其大知也與舜好問亦曰"
+            },
+            {
+              "text": "欲能則學欲知則問書曰好問則裕自用"
+            },
+            {
+              "text": "則小"
+            },
+            {
+              "text": "安貞問分量先生曰分量治病之第一不"
+            },
+            {
+              "text": "可不知焉半兩錢今猶幸存雖二千歲之"
+            },
+            {
+              "text": "下可徵而其重六七分也按古必有一錢"
+            },
+            {
+              "text": "既經二千歲而如此耳其銘記一錢當半"
+            },
+            {
+              "text": "兩則今之二錢必古之一兩也其半兩錢"
+            },
+            {
+              "text": "之重今有一錢者疑非古錢也"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "右四上欄",
+              "text": "△",
+              "column_anchor": null,
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "病者自六十餘州來請止於京師而服藥"
+            },
+            {
+              "text": "也先生曰吾一診以處方終知百病全愈"
+            },
+            {
+              "text": "矣乃與之藥或記方名以投之誨歸其國"
+            },
+            {
+              "text": "而服此藥百病無不愈矣亦有請灸治者"
+            },
+            {
+              "text": "先生曰可其可唯按病毒之所凝灸之可"
+            },
+            {
+              "text": "也艾葉之重一錢可也必有驗"
+            },
+            {
+              "text": "安貞問學先生曰學習醫之本不可不學"
+            },
+            {
+              "text": "焉非聖人之書必莫讀焉吾自幼時好而"
+            },
+            {
+              "text": "讀五經五經乃聖人之書也信而讀之通"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "左一上欄",
+              "text": "△",
+              "column_anchor": null,
+              "color": "red"
+            },
+            {
+              "type": "manuscript-annotation",
+              "location": "左七上欄",
+              "text": "△",
+              "column_anchor": null,
+              "color": "red"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：朱點、返點與送假名未逐一編碼。右三後的淺色字跡為背透，左六下方同。右五「幸」、左一「止」、左三「誨」，左五「其可」待覆核。右頁單位為古錢及重量討論。"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p9",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001001%2FRB00001001_00009_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "9"
+        ]
+      },
+      "file": "09.jpg",
+      "sha256": "2f35b98d0fd17f4887eac9808f8949bcbf3cffcb3db91ad8bf10072e9972dd20",
+      "bytes": 309489,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-dialogue",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "其義以解金匱傷寒論能知治萬病矣今"
+            },
+            {
+              "text": "之學者讀後世之雜書以為學是非古學"
+            },
+            {
+              "text": "必不可從焉非聖人之書則必莫讀焉安"
+            },
+            {
+              "text": "貞按前漢書孝經論語詩經書經及爾雅"
+            },
+            {
+              "text": "古之學如此先生之學乃是歟"
+            },
+            {
+              "text": "安貞問詩歌先生曰唐以下之詩巧言似"
+            },
+            {
+              "text": "美而不美虛言可觀焉古詩不然不巧言"
+            },
+            {
+              "text": "唯言實事故句々不美是有志于古者當"
+            },
+            {
+              "text": "知焉假令學詩者雖得唐以下之工處是"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "右六上欄",
+              "text": "△",
+              "column_anchor": null,
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "非聖人之學所謂後世唐以下之學也何"
+            },
+            {
+              "text": "足貴之哉和歌亦然古今集以下之歌亦"
+            },
+            {
+              "text": "甚巧也巧者非實事也萬葉集不巧以古"
+            },
+            {
+              "text": "也故句々不美不美者皆以實事實事吾"
+            },
+            {
+              "text": "所貴也"
+            },
+            {
+              "text": "安貞問儒先生曰儒君臨天下而治萬民"
+            },
+            {
+              "text": "之業乃堯舜禹湯文武周公之道也今時"
+            },
+            {
+              "text": "不然唯讀書以為業自失其職聖道終衰"
+            },
+            {
+              "text": "無為政而治人之事是非古也然吾醫也"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "左六上欄",
+              "text": "△",
+              "column_anchor": null,
+              "color": "red"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：朱點、返點與送假名未逐一編碼。右六「似」、右九「工」、左八「衰」可回圖核；重文號按所見記作々。"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p10",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001001%2FRB00001001_00010_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "10"
+        ]
+      },
+      "file": "10.jpg",
+      "sha256": "a55cddb2226b3029f157e3153facebe2d3acc4f392863e4cd838086d623a95cf",
+      "bytes": 313910,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-dialogue",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "非其職非其職而言之則非禮也故欲使"
+            },
+            {
+              "text": "瀧氏喩之而與書曰醫事漢代以來大衰"
+            },
+            {
+              "text": "非古醫事吾日患焉儒家其如何瀧氏不"
+            },
+            {
+              "text": "能喩之而終死矣"
+            },
+            {
+              "text": "先生曰習醫事於暮師暮師曰暮不欲勝"
+            },
+            {
+              "text": "於人復不欲負於人而上工在於其中矣"
+            },
+            {
+              "text": "此語通吾醫事而論之則暮之勝負乃人"
+            },
+            {
+              "text": "之死生也醫事亦不拘於死不拘於生而"
+            },
+            {
+              "text": "上工在於其中矣扁鵲其人也故曰越人"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "非能生死人也此自當生者越人能使之"
+            },
+            {
+              "text": "起耳安貞按先生能不耻下問者歟"
+            },
+            {
+              "text": "安貞曰先生之醫事勝於扁鵲仲景矣或"
+            },
+            {
+              "text": "曰何以言之曰世醫所謂癩疾瘡毒及男"
+            },
+            {
+              "text": "女諸病世醫不能治者先生之醫事皆治"
+            },
+            {
+              "text": "焉秦張未謂此治法也天下之病者自六"
+            },
+            {
+              "text": "十餘州來必觀證治是世之所知也大哉"
+            },
+            {
+              "text": "先生之醫事勝於扁鵲仲景矣然實非勝"
+            },
+            {
+              "text": "於扁鵲仲景者先生數十年歷試扁鵲仲"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "右頁第5欄上界、左頁第3欄上界",
+              "text": "△",
+              "column_anchor": null,
+              "color": "red"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：兩面另有朱色短斜句讀與墨筆訓點，未逐記。首欄「非其職」原圖重見，保留。"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p11",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001001%2FRB00001001_00011_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "11"
+        ]
+      },
+      "file": "11.jpg",
+      "sha256": "ed613a0125bcd97089ab9efdec3039059bc40d46fc85a056ca2fa4097fd1e910",
+      "bytes": 310240,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-dialogue",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "景之醫事而得其妙而已矣聖人不言乎"
+            },
+            {
+              "text": "周監於二代郁々乎文哉吾從周周何勝"
+            },
+            {
+              "text": "於二代哉"
+            },
+            {
+              "text": "先生曰吾年七十有二門徒已滿於天下"
+            },
+            {
+              "text": "而無得吾道者日以患焉安貞答曰扁鵲"
+            },
+            {
+              "text": "仲景之醫事絕於天下既久矣千金外臺"
+            },
+            {
+              "text": "以下之方書無通金匱傷寒論者二千歲"
+            },
+            {
+              "text": "以來未嘗聞有誦其書得其用者至于今"
+            },
+            {
+              "text": "先生始通其書也然則先生二千歲以來"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "之一人也何得若先生之人哉若得之則"
+            },
+            {
+              "text": "何以謂千古之一人哉子曰有顏囘者好"
+            },
+            {
+              "text": "學不幸短命死矣今也則亡未聞好學者"
+            },
+            {
+              "text": "也聖門三千如雲或十哲或七十二弟子"
+            },
+            {
+              "text": "學者多矣而聖人之言如是今亦先生之"
+            },
+            {
+              "text": "言如是先生默々不答焉"
+            },
+            {
+              "text": "先生曰某矦謂為則曰吾君某卿有難治"
+            },
+            {
+              "text": "之證也某醫與為則相共圖之為則曰東"
+            },
+            {
+              "text": "武諸醫多矣未嘗聞知古醫者何相共圖"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "右頁第4欄上界、左頁第7欄上界",
+              "text": "△",
+              "column_anchor": null,
+              "color": "red"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：兩面另有朱色短斜句讀與墨筆訓點，未逐記。右頁第2欄「郁」與左頁第6欄「默」後的原重文號記為「々」。左頁第7欄「矦」從本面和下幅重現的同一字形。"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p12",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001001%2FRB00001001_00012_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "12"
+        ]
+      },
+      "file": "12.jpg",
+      "sha256": "28df45bc79969abb0e21c5a83f80de38066e4729452570ce53fc421c11f46dd0",
+      "bytes": 315888,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-dialogue",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "之哉諸醫聞此言默而坐矦謂為則曰如"
+            },
+            {
+              "text": "何其然哉曰蓋疑而不信耳今試舉東武"
+            },
+            {
+              "text": "男女諸醫不能治者百人撰之其半五十"
+            },
+            {
+              "text": "人使諸醫治之其半五十人使為則治之"
+            },
+            {
+              "text": "而后以其驗多者為證則何有復疑哉矦"
+            },
+            {
+              "text": "其圖之矦曰諾"
+            },
+            {
+              "text": "某矦謂先生曰吾欲治國謂唯尚書而已"
+            },
+            {
+              "text": "先生喜曰惟命哉海內從吾醫事過半也"
+            },
+            {
+              "text": "政事亦得此矦則吾幸何過焉近亦問佛"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "法治國家奈之何曰不可也蓋釋迦出於"
+            },
+            {
+              "text": "父母之家入於山在于茲有年而后道成"
+            },
+            {
+              "text": "矣一心唯治其獨耳未聞其能治天下國"
+            },
+            {
+              "text": "家矣釋門無君臣父子兄弟夫婦之道何"
+            },
+            {
+              "text": "以得治天下國家治天下國家必有法非"
+            },
+            {
+              "text": "堯舜禹湯文武周公之道則不能矣釋門"
+            },
+            {
+              "text": "若謂知男女之道則臆見非實事大哉矣"
+            },
+            {
+              "text": "治天下之道堯試舜以二女妻之何則小"
+            },
+            {
+              "text": "人與婦女治之難矣故妻之二女以知其"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "右頁第7欄上界",
+              "text": "△",
+              "column_anchor": null,
+              "color": "red"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：兩面另有朱色短斜句讀與墨筆訓點，未逐記。右頁的「矦」反覆為同一字形，下從矢，承上幅「某矦」。"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p13",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001001%2FRB00001001_00013_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "13"
+        ]
+      },
+      "file": "13.jpg",
+      "sha256": "5a20e87b7c3e3602be083a8ed911c4cd6ea49a82f719caf092b2718ec7d9d4a0",
+      "bytes": 317324,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-dialogue",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "人而后讓天下決矣聖人試人以男女之"
+            },
+            {
+              "text": "道也矦能思諸"
+            },
+            {
+              "text": "某矦雖求尚書之講於諸儒有所疑故請"
+            },
+            {
+              "text": "講於先生先生曰不知焉曰然則違乎曰"
+            },
+            {
+              "text": "違矣曰何以違乎曰吾非知之者矦讀易"
+            },
+            {
+              "text": "與曰然曰周易孔子曰言不盡意由是觀"
+            },
+            {
+              "text": "之則何須講哉矦曰唯"
+            },
+            {
+              "text": "徂徠先生曰唯毒毒人東洞先生曰徂徠"
+            },
+            {
+              "text": "先生不知醫事而有此言也唯毒毒人則"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "其害奈之何吾讚河豚□曰毒毒於毒不"
+            },
+            {
+              "text": "毒于人徂徠先生古今博學然未知其不"
+            },
+            {
+              "text": "為不知此言何誤哉班固亦然其語曰有"
+            },
+            {
+              "text": "病不治常得中醫班固不知醫事而有此"
+            },
+            {
+              "text": "言如何安貞按後生可畏焉知來者之不"
+            },
+            {
+              "text": "如今也其斯之謂與"
+            },
+            {
+              "text": "某僧來先生幸問生死也其答甚詳也而"
+            },
+            {
+              "text": "僧曰吾病既久矣請治焉先生診之曰夫"
+            },
+            {
+              "text": "承氣湯之證也服之則必有下利曰吾病"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "右頁第3欄與第8欄上界、左頁第7欄上界",
+              "text": "△",
+              "column_anchor": null,
+              "color": "red"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 1,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        }
+      ],
+      "observations": "左面：兩面另有朱色短斜句讀與墨筆訓點，未逐記。左頁第1欄「河豚」下一字上有兩斜點、中部近方框、下筆展開，候讀「羹」或「奚」，暫留□。"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p14",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001001%2FRB00001001_00014_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "14"
+        ]
+      },
+      "file": "14.jpg",
+      "sha256": "020ad39b91facb81d51ceb9a3e05bf0407dae96509a5e35e356c2ce273d069ee",
+      "bytes": 323006,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-dialogue",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "既久矣下利則其危如何曰吾道古之法"
+            },
+            {
+              "text": "也病證與方藥相對無違僧何疑之乎意"
+            },
+            {
+              "text": "者僧未明生死未明生死者何與之藥不"
+            },
+            {
+              "text": "果與僧亦自退"
+            },
+            {
+              "text": "先生曰吾道萬病唯一毒一僧在坐曰佛"
+            },
+            {
+              "text": "法亦然先生曰莫妄言曰吾弗妄言曰僧"
+            },
+            {
+              "text": "不知醫事是故來而請治何以為一耶僧"
+            },
+            {
+              "text": "將三拜矣先生止之曰吾未知三拜之義"
+            },
+            {
+              "text": "以不知者對人非禮矣僧曰吾亦貳過矣"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "先生曰可謂直矣"
+            },
+            {
+              "text": "先生間坐安貞侍坐問醫事之至要先生"
+            },
+            {
+              "text": "答以範學一則安貞雖不敏請事此語矣"
+            },
+            {
+              "text": "書曰聖罔念作狂狂克念作聖孔子曰學"
+            },
+            {
+              "text": "而不思則罔此謂是與"
+            },
+            {
+              "text": "某両矦之侍醫年七十有餘請入于先生"
+            },
+            {
+              "text": "之門而學古醫也先生曰汝已老矣學之"
+            },
+            {
+              "text": "何用其一醫曰吾君既薨吾若死之日君"
+            },
+            {
+              "text": "必問古醫於地下吾不學之亦咎也吾讀"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "右頁第5欄上界、左頁第2欄與第6欄上界",
+              "text": "△",
+              "column_anchor": null,
+              "color": "red"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：兩面另有朱色短斜句讀與墨筆訓點，未逐記。右頁第3欄下半「何」旁有不規則深色痕，仍見「何」。左頁第6欄「両」依可見字形保留。"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00001001",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00001001",
+      "label": {
+        "ja": [
+          "15"
+        ]
+      },
+      "file": "15.jpg",
+      "sha256": "94dc986e93b613e28d13ee77578eef8e2bbfa6ec4942085f3f24d8b918240572",
+      "bytes": 321898,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-dialogue",
+      "source_link_scope": "catalogue-only",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "先生之著述若干以知後世醫之非非一"
+            },
+            {
+              "text": "生之過過其可改也故請學焉先生曰善"
+            },
+            {
+              "text": "矣乃許之"
+            },
+            {
+              "text": "鹽田彦七妻病也安貞門人與之大青龍"
+            },
+            {
+              "text": "湯及瀉心湯經十八九日病甚至危使安"
+            },
+            {
+              "text": "貞視之則喘渇之證悉具矣是方證相對"
+            },
+            {
+              "text": "無違乃與之瀉心湯及大青龍湯本方也"
+            },
+            {
+              "text": "〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕右"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "右頁四欄欄頂朱筆",
+              "text": "△",
+              "column_anchor": null,
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "〔省錄〕而猶日夜待死漸經八"
+            },
+            {
+              "text": "九日諸證皆退十有餘日全愈安貞侍之"
+            },
+            {
+              "text": "先生之側先生曰吾亦一夜使病者盡石"
+            },
+            {
+              "text": "膏黃連甘草湯百有五錢也門人相傳皆"
+            },
+            {
+              "text": "聞此言也"
+            },
+            {
+              "text": "安貞妻三十八五月半產振震戰粟氣息"
+            },
+            {
+              "text": "將絶其證心下痞鞕胸脇苦滿心煩是小"
+            },
+            {
+              "text": "柴胡湯及瀉心湯之證悉具矣安貞按此"
+            },
+            {
+              "text": "證綿々難解者也病勢亦不緩既小柴胡"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "左頁六欄欄頂朱筆",
+              "text": "△",
+              "column_anchor": null,
+              "color": "red"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "omissions": [
+        {
+          "side": "right",
+          "column": 8,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 9,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        }
+      ],
+      "observations": "右面：此面有原文未收錄處，各欄由省錄標記定位。 左面：此面有原文未收錄處，各欄由省錄標記定位。"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00001001",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00001001",
+      "label": {
+        "ja": [
+          "16"
+        ]
+      },
+      "file": "16.jpg",
+      "sha256": "1c0e46f934592afc3c0202e10f2bfd56cdd1da0c64540fb366c2b3dc97d25e90",
+      "bytes": 319266,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-dialogue",
+      "source_link_scope": "catalogue-only",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "湯本方與之也〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕"
+            },
+            {
+              "text": "〔省錄〕而吐瀉如傾大下紫血數"
+            },
+            {
+              "text": "升而戰栗頓止數日全愈蓋常經水不利"
+            },
+            {
+              "text": "下紫血數升耳告之先生先生曰其善此"
+            },
+            {
+              "text": "後經水每月克利"
+            },
+            {
+              "text": "先生曰有毒者染疫無毒者不染疫也和"
+            },
+            {
+              "text": "泉屋某自辛卯六月至壬辰九月病世醫"
+            },
+            {
+              "text": "所謂勞證也其證心下痞鞕胸脇苦滿心"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "右頁七欄欄頂朱筆",
+              "text": "△",
+              "column_anchor": null,
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "煩不能夜眠諸治無効矣招安貞視之乃"
+            },
+            {
+              "text": "小柴胡湯及瀉心湯飲之時以紫圓攻之"
+            },
+            {
+              "text": "攻之凡二年矣毒盡全愈安永二年癸巳"
+            },
+            {
+              "text": "天下悉疫矣此者獨不染則毒全盡故也"
+            },
+            {
+              "text": "果如先生所言"
+            },
+            {
+              "text": "世醫專言多發汗則亡陽是妄言也不可"
+            },
+            {
+              "text": "信矣夏日炎天農民耕耘以盡其力自朝"
+            },
+            {
+              "text": "至暮發汗如流水積日累月然未見亡陽"
+            },
+            {
+              "text": "者況復荷駕舂米者終年發汗而無亡陽"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "左頁六欄欄頂朱筆",
+              "text": "△",
+              "column_anchor": null,
+              "color": "red"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "omissions": [
+        {
+          "side": "right",
+          "column": 1,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        }
+      ],
+      "observations": "右面：此面有原文未收錄處，各欄由省錄標記定位。 左面：左二至三「攻之」重出。左二方名照錄，這一欄沒有列方料或製法。左九「駕」圖下馬、「舂」下具臼形，依形記。左末跨幅續 f17。兩面朱點、假名與返點僅記層次及可定位部分。"
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p17",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001001%2FRB00001001_00017_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "17"
+        ]
+      },
+      "file": "17.jpg",
+      "sha256": "d20661383658d2ce2041a88dc9420e38453b1d992b918b65c4391115d89042f6",
+      "bytes": 274463,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-dialogue",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "者矣安貞言之先生之側"
+            },
+            {
+              "text": "病者問先生曰吾病主何臟腑乎先生曰"
+            },
+            {
+              "text": "吾未見其臟腑者故不知焉先生亦問其"
+            },
+            {
+              "text": "人曰汝目見美色則美色也汝口食美味"
+            },
+            {
+              "text": "則美味也皆是所出於汝身也汝當知其"
+            },
+            {
+              "text": "故矣曰不知焉曰自不知之則他何可知"
+            },
+            {
+              "text": "之死生亦然誰能知其故聖人不言之乎"
+            },
+            {
+              "text": "曰死生有命亦曰死生命也實是死生臟"
+            },
+            {
+              "text": "腑之論非人之所知焉"
+            }
+          ],
+          "extras": [
+            {
+              "type": "manuscript-annotation",
+              "location": "右頁二欄欄頂朱筆",
+              "text": "△",
+              "column_anchor": null,
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "右二十有五章東洞吉益先生之言而"
+            },
+            {
+              "text": "安貞述之"
+            },
+            {
+              "text": "醫事答問終"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：同幅右一收前幅段落，右二「病者問先生」另起，本篇正文終於右九。 左面：末附記在左面右起二欄，直接寫「二十有五章」，說所輯為東洞吉益先生言、安貞述之。影像獨立卷尾題在左面最外欄，中隔六個空欄，亦可見左二末「之」旁朱筆。附記不另指作末抄手姓名。"
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p18",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001001%2FRB00001001_00018_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "18"
+        ]
+      },
+      "file": "18.jpg",
+      "sha256": "c73b64f9d25eb30a20aa8c622a4cbdf29aba2e205077de60272c363141fd00f8",
+      "bytes": 203481,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "copying-note",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "弘化三丙午應鐘中澣謄寫焉"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：同面靠內第二有格欄正寫獨立謄寫款。「澣」水旁，正文無「年」字。「弘化三丙午」為 1846；「應鐘中澣」照原文。款內未署抄者名。其餘多為前頁版面與墨跡的反向淡透影，摺口裂痕不當作未辨字。 左面：左側背襯空白，近摺口見蟲損、水色與細裂。未見本面正寫文字。"
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p19",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001001%2FRB00001001_00019_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "19"
+        ]
+      },
+      "file": "19.jpg",
+      "sha256": "fe54420fb63ad1c84ee1dfa04c1e046408619b604ea18ad78224186ac1867e78",
+      "bytes": 219623,
+      "width": 2000,
+      "height": 1333,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：黃褐原書後封，書縫與補紙可見，無正面文字。"
+    }
+  ]
+}

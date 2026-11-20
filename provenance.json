@@ -1,0 +1,222 @@
+{
+  "historical_author": "桃井安貞",
+  "source_identity": "京都大學附屬圖書館富士川文庫 イ/389，RB00001001",
+  "source": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00001001",
+  "iiif_manifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001001/manifest.json",
+  "source_rights_policy": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+  "dataset_version": "0.1.0",
+  "scan_count": 19,
+  "content_scan_count": 15,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p1",
+      "label": {
+        "ja": [
+          "1"
+        ]
+      },
+      "sha256": "d7fc2e5224e12686510bec7533a94603122c5dbee45fc782e249adb0953c206c",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p2",
+      "label": {
+        "ja": [
+          "2"
+        ]
+      },
+      "sha256": "d2b542218136aa80d28304d8a7094fb61162df87c23a5ed4f10b4df29d26ab8d",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p3",
+      "label": {
+        "ja": [
+          "3"
+        ]
+      },
+      "sha256": "79449e28687a70bdc59c8c0d6c60ce689051a7d865c0c35529aa29da0122b40b",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p4",
+      "label": {
+        "ja": [
+          "4"
+        ]
+      },
+      "sha256": "483dbe4cfa436aee75df70b40f70d300f1ff41ee04e8d57643bb26e2de4e164d",
+      "content_role": "medical-dialogue"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p5",
+      "label": {
+        "ja": [
+          "5"
+        ]
+      },
+      "sha256": "93f7db520dc395e345bf765f9e414e406b9ea800304bcba9b2d1b9904099ea56",
+      "content_role": "medical-dialogue"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p6",
+      "label": {
+        "ja": [
+          "6"
+        ]
+      },
+      "sha256": "8ca760147878d51f3ac048972e4bb0fed9aa583a37676917dd78d6171eab81a1",
+      "content_role": "medical-dialogue"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p7",
+      "label": {
+        "ja": [
+          "7"
+        ]
+      },
+      "sha256": "c6a3cb4fbe908aae96b6b0cacf37e4d019606ab06dd68661f359a2aef7602a93",
+      "content_role": "medical-dialogue"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p8",
+      "label": {
+        "ja": [
+          "8"
+        ]
+      },
+      "sha256": "2ed46d9701225575bd43c167a8f5c4ee7eeb3e529df2adb62a698ce5daa317b9",
+      "content_role": "medical-dialogue"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p9",
+      "label": {
+        "ja": [
+          "9"
+        ]
+      },
+      "sha256": "2f35b98d0fd17f4887eac9808f8949bcbf3cffcb3db91ad8bf10072e9972dd20",
+      "content_role": "medical-dialogue"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p10",
+      "label": {
+        "ja": [
+          "10"
+        ]
+      },
+      "sha256": "a55cddb2226b3029f157e3153facebe2d3acc4f392863e4cd838086d623a95cf",
+      "content_role": "medical-dialogue"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p11",
+      "label": {
+        "ja": [
+          "11"
+        ]
+      },
+      "sha256": "ed613a0125bcd97089ab9efdec3039059bc40d46fc85a056ca2fa4097fd1e910",
+      "content_role": "medical-dialogue"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p12",
+      "label": {
+        "ja": [
+          "12"
+        ]
+      },
+      "sha256": "28df45bc79969abb0e21c5a83f80de38066e4729452570ce53fc421c11f46dd0",
+      "content_role": "medical-dialogue"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p13",
+      "label": {
+        "ja": [
+          "13"
+        ]
+      },
+      "sha256": "5a20e87b7c3e3602be083a8ed911c4cd6ea49a82f719caf092b2718ec7d9d4a0",
+      "content_role": "medical-dialogue"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p14",
+      "label": {
+        "ja": [
+          "14"
+        ]
+      },
+      "sha256": "020ad39b91facb81d51ceb9a3e05bf0407dae96509a5e35e356c2ce273d069ee",
+      "content_role": "medical-dialogue"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00001001",
+      "label": {
+        "ja": [
+          "15"
+        ]
+      },
+      "sha256": "94dc986e93b613e28d13ee77578eef8e2bbfa6ec4942085f3f24d8b918240572",
+      "content_role": "medical-dialogue"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00001001",
+      "label": {
+        "ja": [
+          "16"
+        ]
+      },
+      "sha256": "1c0e46f934592afc3c0202e10f2bfd56cdd1da0c64540fb366c2b3dc97d25e90",
+      "content_role": "medical-dialogue"
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p17",
+      "label": {
+        "ja": [
+          "17"
+        ]
+      },
+      "sha256": "d20661383658d2ce2041a88dc9420e38453b1d992b918b65c4391115d89042f6",
+      "content_role": "medical-dialogue"
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p18",
+      "label": {
+        "ja": [
+          "18"
+        ]
+      },
+      "sha256": "c73b64f9d25eb30a20aa8c622a4cbdf29aba2e205077de60272c363141fd00f8",
+      "content_role": "copying-note"
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001001/canvas/p19",
+      "label": {
+        "ja": [
+          "19"
+        ]
+      },
+      "sha256": "fe54420fb63ad1c84ee1dfa04c1e046408619b604ea18ad78224186ac1867e78",
+      "content_role": "housing-or-binding"
+    }
+  ]
+}
